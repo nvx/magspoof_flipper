@@ -1,7 +1,7 @@
 #include "mag_text_input.h"
 #include <gui/elements.h>
-#include <assets_icons.h>
 #include <furi.h>
+#include "mag_icons.h"
 
 struct Mag_TextInput {
     View* view;
